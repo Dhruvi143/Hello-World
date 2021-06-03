@@ -4,7 +4,7 @@
     "description": "Custom Product Rule Page",
     "type": "magento2-module",
     "license": "proprietary",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "authors": [
         {
             "email": "dhruvi.b@codilar.com",
