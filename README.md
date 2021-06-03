@@ -1,2 +1,4 @@
 # Hello-World
-Hello World Magento Module
+Hello Everyone
+This is Dhruvi Shah
+This is my first repo
